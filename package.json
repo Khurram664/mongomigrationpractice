@@ -1,0 +1,25 @@
+{
+  "name": "migrate-practice",
+  "version": "1.0.0",
+  "description": "test migrate description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "khurram",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "chai": "^4.2.0",
+    "migrate": "^1.6.2",
+    "mkdirp": "^0.5.1",
+    "mongodb": "^3.3.2",
+    "rimraf": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "lastRun": "1568285693856-testt.js",
+  "migrations": [
+    {
+      "title": "1568203048296-add-intialization.js",
+      "timestamp": 1568285701285
+    },
+    {
+      "title": "1568275682309-add-last-namejs.js",
+      "timestamp": 1568285701310
+    },
+    {
+      "title": "1568285631813-testt.js",
+      "timestamp": 1568285701310
+    },
+    {
+      "title": "1568285693856-testt.js",
+      "timestamp": 1568285701311
+    }
+  ]
+}
